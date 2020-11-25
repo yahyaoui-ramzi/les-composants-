@@ -36,11 +36,12 @@
     transform: rotate(360deg);
   }
 }
-.pic {
-    width: 505px;
-    height: 346px ;
-    margin: 100px;
-}
+
 .App {
   background-color: rgb(178, 201, 199) ;
+}
+ .pic {
+  width: 505px;
+  height: 346px ;
+  margin: 100px;
 }
